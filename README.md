@@ -29,6 +29,11 @@ It wrote the code, ran away, and now the game is unplayable.
 - [ ] Detail which bugs you found.
 - [ ] Explain what fixes you applied.
 
+
+- [x] The game is a number guessing game where players try to guess a secret number within a range based on difficulty level.
+- [x] I found bugs with backwards hint messages, switched difficulty ranges, a broken hint button, and string conversion causing wrong comparisons.
+- [x] I fixed the hint messages to point in the right direction, corrected difficulty ranges so harder levels have bigger ranges, changed hint button from checkbox to button, and removed string conversion bug.
+
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
